@@ -28,9 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
+[](./images/comment-section-desktop.png)
+[](./images/comment-section-mobile.png)
+
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://sanskaari.github.io/interactive-comment-section/
 
 ## My process
 
