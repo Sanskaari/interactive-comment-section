@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-[](./images/comment-section-desktop.png)
-[](./images/comment-section-mobile.png)
+![](./images/comment-section-desktop.png)
+![](./images/comment-section-mobile.png)
 
 ### Links
 
